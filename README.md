@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Leok75247
 - 👀 I’m interested in python and c programming languages
-- 🌱 I’m currently learning be in aiml
+- 🌱 I’m currently learning about in AI&ML
 - 💞️ I’m looking to collaborate on futurely programming languages
 - 📫 How to reach me just send an email
 - 😄 Pronouns: He
